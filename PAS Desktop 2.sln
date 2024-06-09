@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAS Desktop 2", "PAS Desktop 2.csproj", "{78823932-EB00-4D1A-9902-A1C69B7E7EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78823932-EB00-4D1A-9902-A1C69B7E7EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78823932-EB00-4D1A-9902-A1C69B7E7EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78823932-EB00-4D1A-9902-A1C69B7E7EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78823932-EB00-4D1A-9902-A1C69B7E7EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3108F97B-A342-457D-AC18-85DF29EAC222}
+	EndGlobalSection
+EndGlobal
